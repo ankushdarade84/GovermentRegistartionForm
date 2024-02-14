@@ -1,0 +1,2802 @@
+01-02-24 13:02:28.162 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+01-02-24 13:02:28.583 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@622de20f
+01-02-24 13:02:28.585 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+01-02-24 13:04:51.834 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+01-02-24 13:04:51.890 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+01-02-24 13:04:54.997 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+01-02-24 13:04:55.039 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@dc91d57
+01-02-24 13:04:55.040 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+01-02-24 13:04:55.897 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+01-02-24 13:04:55.927 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+01-02-24 13:05:39.058 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+01-02-24 13:05:39.140 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b5a4aff
+01-02-24 13:05:39.140 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+01-02-24 13:26:19.756 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown initiated...
+01-02-24 13:26:19.778 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown completed.
+01-02-24 13:26:20.859 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Starting...
+01-02-24 13:26:20.926 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@292a481b
+01-02-24 13:26:20.926 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Start completed.
+01-02-24 13:33:15.259 [HikariPool-4 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=54s117ms299µs300ns).
+01-02-24 13:39:05.406 [Thread-14] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown initiated...
+01-02-24 13:39:05.660 [Thread-14] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown completed.
+01-02-24 13:39:09.709 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Starting...
+01-02-24 13:39:09.914 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@58832bbd
+01-02-24 13:39:09.915 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Start completed.
+01-02-24 13:39:51.285 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown initiated...
+01-02-24 13:39:51.440 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown completed.
+01-02-24 13:39:52.656 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Starting...
+01-02-24 13:39:52.673 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c1c59c1
+01-02-24 13:39:52.674 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Start completed.
+01-02-24 13:40:13.616 [Thread-22] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown initiated...
+01-02-24 13:40:13.622 [Thread-22] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown completed.
+01-02-24 13:40:14.680 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Starting...
+01-02-24 13:40:14.744 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5802e3f9
+01-02-24 13:40:14.745 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Start completed.
+01-02-24 13:40:32.692 [Thread-26] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown initiated...
+01-02-24 13:40:32.700 [Thread-26] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown completed.
+01-02-24 13:40:33.795 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Starting...
+01-02-24 13:40:33.821 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55e7c280
+01-02-24 13:40:33.822 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Start completed.
+01-02-24 13:40:48.828 [Thread-30] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown initiated...
+01-02-24 13:40:48.842 [Thread-30] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown completed.
+01-02-24 13:40:49.579 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Starting...
+01-02-24 13:40:49.645 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@492560d2
+01-02-24 13:40:49.646 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Start completed.
+01-02-24 13:42:59.426 [Thread-34] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown initiated...
+01-02-24 13:42:59.440 [Thread-34] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown completed.
+01-02-24 13:43:00.029 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Starting...
+01-02-24 13:43:00.042 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-10 - Added connection com.mysql.cj.jdbc.ConnectionImpl@661ab736
+01-02-24 13:43:00.043 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Start completed.
+01-02-24 13:43:55.768 [Thread-38] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown initiated...
+01-02-24 13:43:55.776 [Thread-38] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown completed.
+01-02-24 13:43:57.021 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Starting...
+01-02-24 13:43:57.031 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-11 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e40b899
+01-02-24 13:43:57.031 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Start completed.
+01-02-24 13:44:48.311 [Thread-42] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown initiated...
+01-02-24 13:44:48.319 [Thread-42] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown completed.
+01-02-24 13:44:49.450 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Starting...
+01-02-24 13:44:49.461 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-12 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1691c0c
+01-02-24 13:44:49.462 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Start completed.
+01-02-24 13:45:56.971 [Thread-46] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown initiated...
+01-02-24 13:45:56.983 [Thread-46] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown completed.
+01-02-24 13:45:57.622 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Starting...
+01-02-24 13:45:57.678 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-13 - Added connection com.mysql.cj.jdbc.ConnectionImpl@31b40ae0
+01-02-24 13:45:57.679 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Start completed.
+01-02-24 13:48:29.520 [Thread-50] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown initiated...
+01-02-24 13:48:29.538 [Thread-50] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown completed.
+01-02-24 13:48:30.153 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Starting...
+01-02-24 13:48:30.165 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@30d8b6e9
+01-02-24 13:48:30.166 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Start completed.
+01-02-24 13:55:14.651 [Thread-54] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown initiated...
+01-02-24 13:55:14.655 [Thread-54] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown completed.
+01-02-24 13:55:15.839 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Starting...
+01-02-24 13:55:15.862 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28d1609c
+01-02-24 13:55:15.862 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Start completed.
+01-02-24 13:56:12.306 [Thread-58] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown initiated...
+01-02-24 13:56:12.311 [Thread-58] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown completed.
+01-02-24 13:56:13.728 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Starting...
+01-02-24 13:56:13.739 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-16 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3005f758
+01-02-24 13:56:13.740 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Start completed.
+01-02-24 13:56:32.911 [Thread-62] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown initiated...
+01-02-24 13:56:33.172 [Thread-62] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown completed.
+01-02-24 13:56:33.731 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Starting...
+01-02-24 13:56:33.745 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-17 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7cce54f6
+01-02-24 13:56:33.745 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Start completed.
+01-02-24 13:58:53.415 [Thread-66] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown initiated...
+01-02-24 13:58:53.524 [Thread-66] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown completed.
+01-02-24 13:58:54.203 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Starting...
+01-02-24 13:58:54.213 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-18 - Added connection com.mysql.cj.jdbc.ConnectionImpl@774756d7
+01-02-24 13:58:54.213 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Start completed.
+01-02-24 13:59:23.609 [Thread-70] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown initiated...
+01-02-24 13:59:23.620 [Thread-70] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown completed.
+01-02-24 13:59:24.276 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Starting...
+01-02-24 13:59:24.342 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-19 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13f428fc
+01-02-24 13:59:24.342 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Start completed.
+01-02-24 13:59:25.224 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown initiated...
+01-02-24 13:59:25.265 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown completed.
+01-02-24 14:00:09.540 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Starting...
+01-02-24 14:00:09.550 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-20 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37e09be8
+01-02-24 14:00:09.550 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Start completed.
+01-02-24 14:00:09.758 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown initiated...
+01-02-24 14:00:09.762 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown completed.
+01-02-24 14:00:21.970 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Starting...
+01-02-24 14:00:21.983 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-21 - Added connection com.mysql.cj.jdbc.ConnectionImpl@572506af
+01-02-24 14:00:21.984 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Start completed.
+01-02-24 14:00:22.937 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown initiated...
+01-02-24 14:00:22.945 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown completed.
+01-02-24 14:03:17.747 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Starting...
+01-02-24 14:03:17.760 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-22 - Added connection com.mysql.cj.jdbc.ConnectionImpl@457c8f44
+01-02-24 14:03:17.760 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Start completed.
+01-02-24 14:03:17.907 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown initiated...
+01-02-24 14:03:17.927 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown completed.
+01-02-24 14:06:09.867 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Starting...
+01-02-24 14:06:09.877 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-23 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b4c02d3
+01-02-24 14:06:09.877 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Start completed.
+01-02-24 14:06:10.030 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown initiated...
+01-02-24 14:06:10.110 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown completed.
+01-02-24 14:10:57.300 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Starting...
+01-02-24 14:10:57.314 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-24 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6bced5f9
+01-02-24 14:10:57.315 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Start completed.
+01-02-24 14:10:57.575 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown initiated...
+01-02-24 14:10:57.616 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown completed.
+01-02-24 14:13:39.138 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Starting...
+01-02-24 14:13:39.155 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-25 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1eb93ea6
+01-02-24 14:13:39.155 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Start completed.
+01-02-24 14:13:39.347 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown initiated...
+01-02-24 14:13:39.372 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown completed.
+01-02-24 14:21:05.001 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Starting...
+01-02-24 14:21:05.025 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-26 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1a300e43
+01-02-24 14:21:05.025 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Start completed.
+01-02-24 14:21:05.208 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown initiated...
+01-02-24 14:21:05.219 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown completed.
+01-02-24 14:21:10.797 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Starting...
+01-02-24 14:21:10.812 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-27 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27473cd5
+01-02-24 14:21:10.812 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Start completed.
+01-02-24 14:21:11.000 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown initiated...
+01-02-24 14:21:11.029 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown completed.
+01-02-24 14:22:19.528 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Starting...
+01-02-24 14:22:19.540 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-28 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4b5b4131
+01-02-24 14:22:19.541 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Start completed.
+01-02-24 14:22:19.982 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown initiated...
+01-02-24 14:22:20.001 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown completed.
+01-02-24 14:25:32.829 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Starting...
+01-02-24 14:25:32.865 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-29 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f800c61
+01-02-24 14:25:32.865 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Start completed.
+01-02-24 14:25:33.009 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown initiated...
+01-02-24 14:25:33.030 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown completed.
+01-02-24 14:25:40.097 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Starting...
+01-02-24 14:25:40.183 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-30 - Added connection com.mysql.cj.jdbc.ConnectionImpl@44714b0b
+01-02-24 14:25:40.184 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Start completed.
+01-02-24 14:25:40.354 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown initiated...
+01-02-24 14:25:40.378 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown completed.
+01-02-24 14:25:42.330 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Starting...
+01-02-24 14:25:42.342 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-31 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79f2cbbb
+01-02-24 14:25:42.342 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Start completed.
+01-02-24 14:25:42.491 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown initiated...
+01-02-24 14:25:42.504 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown completed.
+01-02-24 14:29:03.078 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Starting...
+01-02-24 14:29:03.089 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-32 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f8f4671
+01-02-24 14:29:03.089 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Start completed.
+01-02-24 14:29:04.182 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown initiated...
+01-02-24 14:29:04.375 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown completed.
+01-02-24 14:32:59.225 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Starting...
+01-02-24 14:32:59.237 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-33 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ed4e0f3
+01-02-24 14:32:59.237 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Start completed.
+01-02-24 14:32:59.574 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown initiated...
+01-02-24 14:32:59.587 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown completed.
+01-02-24 14:43:13.744 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Starting...
+01-02-24 14:43:13.764 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-34 - Added connection com.mysql.cj.jdbc.ConnectionImpl@403aab40
+01-02-24 14:43:13.764 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Start completed.
+01-02-24 14:43:14.020 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown initiated...
+01-02-24 14:43:14.097 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown completed.
+01-02-24 14:43:27.316 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Starting...
+01-02-24 14:43:27.328 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-35 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59f9b83a
+01-02-24 14:43:27.329 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Start completed.
+01-02-24 14:43:27.507 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown initiated...
+01-02-24 14:43:27.527 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown completed.
+01-02-24 14:43:40.189 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Starting...
+01-02-24 14:43:40.201 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-36 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68ecc21e
+01-02-24 14:43:40.202 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Start completed.
+01-02-24 14:43:40.442 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown initiated...
+01-02-24 14:43:40.490 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown completed.
+01-02-24 14:43:55.980 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Starting...
+01-02-24 14:43:55.991 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-37 - Added connection com.mysql.cj.jdbc.ConnectionImpl@51a4f990
+01-02-24 14:43:55.991 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Start completed.
+01-02-24 14:43:56.419 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown initiated...
+01-02-24 14:43:56.450 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown completed.
+01-02-24 14:46:02.130 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Starting...
+01-02-24 14:46:02.142 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-38 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2eef686a
+01-02-24 14:46:02.143 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Start completed.
+01-02-24 14:46:02.317 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown initiated...
+01-02-24 14:46:02.339 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown completed.
+01-02-24 14:51:15.852 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Starting...
+01-02-24 14:51:15.966 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-39 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e40cf50
+01-02-24 14:51:15.966 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Start completed.
+01-02-24 14:51:17.866 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown initiated...
+01-02-24 14:51:17.877 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown completed.
+01-02-24 14:51:23.143 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Starting...
+01-02-24 14:51:23.229 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-40 - Added connection com.mysql.cj.jdbc.ConnectionImpl@9ca8c20
+01-02-24 14:51:23.229 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Start completed.
+01-02-24 14:51:23.560 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown initiated...
+01-02-24 14:51:23.623 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown completed.
+01-02-24 14:52:00.720 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Starting...
+01-02-24 14:52:00.730 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-41 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e058801
+01-02-24 14:52:00.731 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Start completed.
+01-02-24 14:52:00.905 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Shutdown initiated...
+01-02-24 14:52:00.938 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Shutdown completed.
+01-02-24 14:53:16.446 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Starting...
+01-02-24 14:53:16.460 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-42 - Added connection com.mysql.cj.jdbc.ConnectionImpl@107361cb
+01-02-24 14:53:16.460 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Start completed.
+01-02-24 14:53:16.681 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Shutdown initiated...
+01-02-24 14:53:16.967 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Shutdown completed.
+01-02-24 14:54:07.388 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Starting...
+01-02-24 14:54:08.291 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-43 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8e5ce48
+01-02-24 14:54:08.296 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Start completed.
+01-02-24 14:54:08.684 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Shutdown initiated...
+01-02-24 14:54:08.725 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Shutdown completed.
+01-02-24 14:54:20.287 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Starting...
+01-02-24 14:54:20.296 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-44 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17906aa1
+01-02-24 14:54:20.296 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Start completed.
+01-02-24 14:54:20.448 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Shutdown initiated...
+01-02-24 14:54:20.453 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Shutdown completed.
+01-02-24 14:54:46.076 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Starting...
+01-02-24 14:54:46.090 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-45 - Added connection com.mysql.cj.jdbc.ConnectionImpl@22881adc
+01-02-24 14:54:46.090 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Start completed.
+01-02-24 14:54:46.243 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Shutdown initiated...
+01-02-24 14:54:46.267 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Shutdown completed.
+01-02-24 14:58:26.585 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Starting...
+01-02-24 14:58:26.598 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-46 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78ad0e7f
+01-02-24 14:58:26.598 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Start completed.
+01-02-24 14:58:26.738 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Shutdown initiated...
+01-02-24 14:58:26.741 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Shutdown completed.
+01-02-24 14:59:16.865 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Starting...
+01-02-24 14:59:16.878 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-47 - Added connection com.mysql.cj.jdbc.ConnectionImpl@52d098bc
+01-02-24 14:59:16.879 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Start completed.
+01-02-24 14:59:17.033 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Shutdown initiated...
+01-02-24 14:59:17.082 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Shutdown completed.
+01-02-24 15:05:24.056 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Starting...
+01-02-24 15:05:24.069 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-48 - Added connection com.mysql.cj.jdbc.ConnectionImpl@248e21b2
+01-02-24 15:05:24.069 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Start completed.
+01-02-24 15:05:24.281 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Shutdown initiated...
+01-02-24 15:05:24.287 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Shutdown completed.
+01-02-24 15:06:43.995 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Starting...
+01-02-24 15:06:44.006 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-49 - Added connection com.mysql.cj.jdbc.ConnectionImpl@368688c8
+01-02-24 15:06:44.006 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Start completed.
+01-02-24 15:06:44.141 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Shutdown initiated...
+01-02-24 15:06:44.188 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Shutdown completed.
+01-02-24 15:07:09.089 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Starting...
+01-02-24 15:07:09.098 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-50 - Added connection com.mysql.cj.jdbc.ConnectionImpl@cbbe619
+01-02-24 15:07:09.099 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Start completed.
+01-02-24 15:07:09.244 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Shutdown initiated...
+01-02-24 15:07:09.260 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Shutdown completed.
+01-02-24 15:07:38.228 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Starting...
+01-02-24 15:07:38.257 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-51 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4bd4d878
+01-02-24 15:07:38.257 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Start completed.
+01-02-24 15:07:38.598 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Shutdown initiated...
+01-02-24 15:07:38.626 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Shutdown completed.
+01-02-24 15:08:00.300 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Starting...
+01-02-24 15:08:00.310 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-52 - Added connection com.mysql.cj.jdbc.ConnectionImpl@f6704da
+01-02-24 15:08:00.311 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Start completed.
+01-02-24 15:08:00.727 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Shutdown initiated...
+01-02-24 15:08:00.732 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Shutdown completed.
+01-02-24 15:08:41.807 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Starting...
+01-02-24 15:08:41.818 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-53 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2be38b95
+01-02-24 15:08:41.819 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Start completed.
+01-02-24 15:08:41.956 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Shutdown initiated...
+01-02-24 15:08:41.965 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Shutdown completed.
+01-02-24 15:09:38.181 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Starting...
+01-02-24 15:09:38.197 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-54 - Added connection com.mysql.cj.jdbc.ConnectionImpl@51b5722a
+01-02-24 15:09:38.198 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Start completed.
+01-02-24 15:09:38.638 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Shutdown initiated...
+01-02-24 15:09:38.846 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Shutdown completed.
+01-02-24 15:10:05.896 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Starting...
+01-02-24 15:10:05.907 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-55 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3dfea500
+01-02-24 15:10:05.907 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Start completed.
+01-02-24 15:10:06.060 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Shutdown initiated...
+01-02-24 15:10:06.070 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Shutdown completed.
+01-02-24 15:16:10.064 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Starting...
+01-02-24 15:16:10.075 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-56 - Added connection com.mysql.cj.jdbc.ConnectionImpl@74299f4
+01-02-24 15:16:10.075 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Start completed.
+01-02-24 15:16:10.288 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Shutdown initiated...
+01-02-24 15:16:10.377 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Shutdown completed.
+01-02-24 15:16:19.610 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Starting...
+01-02-24 15:16:19.675 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-57 - Added connection com.mysql.cj.jdbc.ConnectionImpl@62b43f82
+01-02-24 15:16:19.675 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Start completed.
+01-02-24 15:16:19.952 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Shutdown initiated...
+01-02-24 15:16:19.972 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Shutdown completed.
+01-02-24 15:18:45.382 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Starting...
+01-02-24 15:18:45.396 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-58 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7eece71f
+01-02-24 15:18:45.396 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Start completed.
+01-02-24 15:18:45.561 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Shutdown initiated...
+01-02-24 15:18:45.659 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Shutdown completed.
+01-02-24 15:19:49.564 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Starting...
+01-02-24 15:19:49.577 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-59 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24847cae
+01-02-24 15:19:49.577 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Start completed.
+01-02-24 15:19:49.785 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Shutdown initiated...
+01-02-24 15:19:49.823 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Shutdown completed.
+01-02-24 15:20:09.318 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Starting...
+01-02-24 15:20:09.344 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-60 - Added connection com.mysql.cj.jdbc.ConnectionImpl@342040b8
+01-02-24 15:20:09.345 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Start completed.
+01-02-24 15:20:09.705 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Shutdown initiated...
+01-02-24 15:20:09.739 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Shutdown completed.
+01-02-24 15:21:01.612 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Starting...
+01-02-24 15:21:01.632 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-61 - Added connection com.mysql.cj.jdbc.ConnectionImpl@587955b6
+01-02-24 15:21:01.632 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Start completed.
+01-02-24 15:21:01.783 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Shutdown initiated...
+01-02-24 15:21:01.804 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Shutdown completed.
+01-02-24 15:22:00.262 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Starting...
+01-02-24 15:22:00.274 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-62 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4659c9e2
+01-02-24 15:22:00.275 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Start completed.
+01-02-24 15:22:00.406 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Shutdown initiated...
+01-02-24 15:22:00.408 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Shutdown completed.
+01-02-24 15:23:27.498 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Starting...
+01-02-24 15:23:27.507 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-63 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45b473f3
+01-02-24 15:23:27.507 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Start completed.
+01-02-24 15:23:27.852 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Shutdown initiated...
+01-02-24 15:23:27.897 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Shutdown completed.
+01-02-24 15:24:10.986 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Starting...
+01-02-24 15:24:10.999 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-64 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7353573f
+01-02-24 15:24:10.999 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Start completed.
+01-02-24 15:24:11.388 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Shutdown initiated...
+01-02-24 15:24:11.411 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Shutdown completed.
+01-02-24 15:24:48.326 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Starting...
+01-02-24 15:24:48.359 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-65 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d70b076
+01-02-24 15:24:48.360 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Start completed.
+01-02-24 15:24:48.496 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Shutdown initiated...
+01-02-24 15:24:48.533 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Shutdown completed.
+01-02-24 15:24:59.162 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Starting...
+01-02-24 15:24:59.176 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-66 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d6945b9
+01-02-24 15:24:59.176 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Start completed.
+01-02-24 15:24:59.324 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Shutdown initiated...
+01-02-24 15:24:59.350 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Shutdown completed.
+01-02-24 15:30:50.999 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Starting...
+01-02-24 15:30:51.011 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-67 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3492c2c4
+01-02-24 15:30:51.011 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Start completed.
+01-02-24 15:30:51.221 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Shutdown initiated...
+01-02-24 15:30:51.234 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Shutdown completed.
+01-02-24 15:31:02.792 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Starting...
+01-02-24 15:31:02.805 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-68 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3288db5b
+01-02-24 15:31:02.805 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Start completed.
+01-02-24 15:31:03.026 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Shutdown initiated...
+01-02-24 15:31:03.043 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Shutdown completed.
+01-02-24 15:31:29.943 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Starting...
+01-02-24 15:31:30.016 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-69 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53dc4e4
+01-02-24 15:31:30.016 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Start completed.
+01-02-24 15:31:30.701 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Shutdown initiated...
+01-02-24 15:31:30.719 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Shutdown completed.
+01-02-24 15:31:58.629 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Starting...
+01-02-24 15:31:58.638 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-70 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b538db7
+01-02-24 15:31:58.638 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Start completed.
+01-02-24 15:31:58.779 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Shutdown initiated...
+01-02-24 15:31:58.834 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Shutdown completed.
+01-02-24 15:32:37.797 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Starting...
+01-02-24 15:32:37.812 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-71 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7c5b9eda
+01-02-24 15:32:37.813 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Start completed.
+01-02-24 15:32:38.875 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Shutdown initiated...
+01-02-24 15:32:38.880 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Shutdown completed.
+01-02-24 15:33:57.283 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Starting...
+01-02-24 15:33:57.292 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-72 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4b385959
+01-02-24 15:33:57.292 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Start completed.
+01-02-24 15:33:57.529 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Shutdown initiated...
+01-02-24 15:33:57.565 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Shutdown completed.
+01-02-24 15:34:56.293 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Starting...
+01-02-24 15:34:56.308 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-73 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e0b9a54
+01-02-24 15:34:56.308 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Start completed.
+01-02-24 15:34:56.528 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Shutdown initiated...
+01-02-24 15:34:56.603 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Shutdown completed.
+01-02-24 15:35:07.080 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Starting...
+01-02-24 15:35:07.090 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-74 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6fcb866f
+01-02-24 15:35:07.090 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Start completed.
+01-02-24 15:35:07.242 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Shutdown initiated...
+01-02-24 15:35:07.244 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Shutdown completed.
+01-02-24 15:36:31.234 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Starting...
+01-02-24 15:36:31.246 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-75 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40a4e9ec
+01-02-24 15:36:31.246 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Start completed.
+01-02-24 15:36:31.429 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Shutdown initiated...
+01-02-24 15:36:31.484 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Shutdown completed.
+01-02-24 15:37:50.802 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Starting...
+01-02-24 15:37:50.812 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-76 - Added connection com.mysql.cj.jdbc.ConnectionImpl@497352b
+01-02-24 15:37:50.812 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Start completed.
+01-02-24 15:37:51.048 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Shutdown initiated...
+01-02-24 15:37:51.086 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Shutdown completed.
+01-02-24 15:38:39.883 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+01-02-24 15:38:40.192 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14b4787e
+01-02-24 15:38:40.195 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+01-02-24 15:38:41.159 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+01-02-24 15:38:41.176 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+01-02-24 15:41:02.514 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+01-02-24 15:41:02.835 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1068557e
+01-02-24 15:41:02.837 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+01-02-24 15:41:03.808 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+01-02-24 15:41:03.821 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+01-02-24 15:44:03.036 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+01-02-24 15:44:03.376 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4eef5253
+01-02-24 15:44:03.380 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+01-02-24 15:49:04.528 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+01-02-24 15:49:04.548 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+01-02-24 15:49:06.057 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+01-02-24 15:49:06.098 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2185f4fc
+01-02-24 15:49:06.099 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+01-02-24 15:59:32.331 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+01-02-24 15:59:32.344 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+01-02-24 15:59:34.505 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+01-02-24 15:59:34.551 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@526c3244
+01-02-24 15:59:34.554 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+01-02-24 16:06:08.644 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown initiated...
+01-02-24 16:06:08.653 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown completed.
+01-02-24 16:06:09.507 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Starting...
+01-02-24 16:06:09.527 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5125e6b0
+01-02-24 16:06:09.528 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Start completed.
+01-02-24 16:11:00.606 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown initiated...
+01-02-24 16:11:00.613 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown completed.
+01-02-24 16:11:01.961 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Starting...
+01-02-24 16:11:01.984 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34c83a84
+01-02-24 16:11:01.986 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Start completed.
+01-02-24 16:11:17.333 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown initiated...
+01-02-24 16:11:17.342 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown completed.
+01-02-24 16:11:18.615 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Starting...
+01-02-24 16:11:18.635 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@62e9eac0
+01-02-24 16:11:18.635 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Start completed.
+01-02-24 16:12:19.270 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown initiated...
+01-02-24 16:12:19.292 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown completed.
+01-02-24 16:12:20.361 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Starting...
+01-02-24 16:12:20.376 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32704e20
+01-02-24 16:12:20.376 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Start completed.
+01-02-24 16:12:28.804 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown initiated...
+01-02-24 16:12:28.812 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown completed.
+01-02-24 16:12:29.704 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Starting...
+01-02-24 16:12:29.724 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@63fa36c2
+01-02-24 16:12:29.724 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Start completed.
+01-02-24 16:14:19.880 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown initiated...
+01-02-24 16:14:19.897 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown completed.
+01-02-24 16:14:20.623 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Starting...
+01-02-24 16:14:20.647 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55ae7801
+01-02-24 16:14:20.647 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Start completed.
+01-02-24 16:14:38.923 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown initiated...
+01-02-24 16:14:38.949 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown completed.
+01-02-24 16:14:40.008 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Starting...
+01-02-24 16:14:40.699 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-10 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37c3de65
+01-02-24 16:14:40.699 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Start completed.
+01-02-24 16:16:47.902 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown initiated...
+01-02-24 16:16:47.908 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown completed.
+01-02-24 16:16:48.461 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Starting...
+01-02-24 16:16:48.479 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-11 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b4840f5
+01-02-24 16:16:48.479 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Start completed.
+01-02-24 16:16:53.955 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown initiated...
+01-02-24 16:16:53.989 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown completed.
+01-02-24 16:16:54.486 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Starting...
+01-02-24 16:16:54.496 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-12 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a9a4867
+01-02-24 16:16:54.496 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Start completed.
+01-02-24 16:21:00.907 [Thread-47] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown initiated...
+01-02-24 16:21:00.915 [Thread-47] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown completed.
+01-02-24 16:21:02.009 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Starting...
+01-02-24 16:21:02.222 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-13 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c896d10
+01-02-24 16:21:02.223 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Start completed.
+01-02-24 16:22:54.146 [Thread-51] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown initiated...
+01-02-24 16:22:54.168 [Thread-51] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown completed.
+01-02-24 16:22:55.938 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Starting...
+01-02-24 16:22:55.952 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e9ed685
+01-02-24 16:22:55.952 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Start completed.
+01-02-24 16:23:04.920 [Thread-55] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown initiated...
+01-02-24 16:23:04.929 [Thread-55] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown completed.
+01-02-24 16:23:05.327 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Starting...
+01-02-24 16:23:05.339 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e69dea0
+01-02-24 16:23:05.339 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Start completed.
+01-02-24 16:23:29.232 [Thread-59] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown initiated...
+01-02-24 16:23:29.257 [Thread-59] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown completed.
+01-02-24 16:23:31.124 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Starting...
+01-02-24 16:23:31.141 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-16 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a8ae471
+01-02-24 16:23:31.141 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Start completed.
+01-02-24 16:23:38.706 [Thread-63] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown initiated...
+01-02-24 16:23:38.713 [Thread-63] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown completed.
+01-02-24 16:23:39.439 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Starting...
+01-02-24 16:23:39.448 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-17 - Added connection com.mysql.cj.jdbc.ConnectionImpl@273a69ca
+01-02-24 16:23:39.448 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Start completed.
+01-02-24 16:25:20.554 [Thread-67] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown initiated...
+01-02-24 16:25:20.567 [Thread-67] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown completed.
+01-02-24 16:25:21.195 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Starting...
+01-02-24 16:25:21.214 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-18 - Added connection com.mysql.cj.jdbc.ConnectionImpl@35da442a
+01-02-24 16:25:21.215 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Start completed.
+01-02-24 16:26:36.566 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown initiated...
+01-02-24 16:26:36.766 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown completed.
+01-02-24 16:26:37.240 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Starting...
+01-02-24 16:26:37.278 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-19 - Added connection com.mysql.cj.jdbc.ConnectionImpl@51af5c50
+01-02-24 16:26:37.279 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Start completed.
+01-02-24 16:27:02.930 [Thread-75] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown initiated...
+01-02-24 16:27:02.949 [Thread-75] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown completed.
+01-02-24 16:27:03.735 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Starting...
+01-02-24 16:27:03.745 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-20 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18706aca
+01-02-24 16:27:03.746 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Start completed.
+01-02-24 16:31:38.377 [Thread-79] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown initiated...
+01-02-24 16:31:38.407 [Thread-79] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown completed.
+01-02-24 16:31:39.636 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Starting...
+01-02-24 16:31:39.652 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-21 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d49645f
+01-02-24 16:31:39.653 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Start completed.
+01-02-24 16:34:14.087 [Thread-83] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown initiated...
+01-02-24 16:34:14.119 [Thread-83] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown completed.
+01-02-24 16:34:14.911 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Starting...
+01-02-24 16:34:14.926 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-22 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a59b492
+01-02-24 16:34:14.931 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Start completed.
+01-02-24 16:34:32.031 [Thread-87] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown initiated...
+01-02-24 16:34:32.041 [Thread-87] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown completed.
+01-02-24 16:34:32.569 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Starting...
+01-02-24 16:34:32.581 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-23 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7732545b
+01-02-24 16:34:32.581 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Start completed.
+01-02-24 16:34:52.197 [Thread-91] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown initiated...
+01-02-24 16:34:52.202 [Thread-91] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown completed.
+01-02-24 16:34:52.895 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Starting...
+01-02-24 16:34:52.906 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-24 - Added connection com.mysql.cj.jdbc.ConnectionImpl@ef2545f
+01-02-24 16:34:52.906 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Start completed.
+01-02-24 16:35:46.258 [Thread-95] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown initiated...
+01-02-24 16:35:46.267 [Thread-95] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown completed.
+01-02-24 16:35:47.357 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Starting...
+01-02-24 16:35:47.368 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-25 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71585cb1
+01-02-24 16:35:47.368 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Start completed.
+01-02-24 16:39:05.161 [Thread-99] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown initiated...
+01-02-24 16:39:05.168 [Thread-99] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown completed.
+01-02-24 16:39:06.149 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Starting...
+01-02-24 16:39:06.165 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-26 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f4322bc
+01-02-24 16:39:06.165 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Start completed.
+01-02-24 16:39:07.154 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown initiated...
+01-02-24 16:39:07.316 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown completed.
+01-02-24 16:39:24.177 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Starting...
+01-02-24 16:39:24.188 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-27 - Added connection com.mysql.cj.jdbc.ConnectionImpl@62c99a17
+01-02-24 16:39:24.189 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Start completed.
+01-02-24 16:42:42.353 [Thread-103] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown initiated...
+01-02-24 16:42:42.403 [Thread-103] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown completed.
+01-02-24 16:42:43.484 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Starting...
+01-02-24 16:42:43.496 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-28 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1de31ae6
+01-02-24 16:42:43.517 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Start completed.
+01-02-24 16:42:49.286 [Thread-110] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown initiated...
+01-02-24 16:42:49.299 [Thread-110] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown completed.
+01-02-24 16:42:50.368 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Starting...
+01-02-24 16:42:50.383 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-29 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c5c12b1
+01-02-24 16:42:50.384 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Start completed.
+01-02-24 16:47:34.219 [Thread-114] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown initiated...
+01-02-24 16:47:34.380 [Thread-114] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown completed.
+01-02-24 16:47:35.194 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Starting...
+01-02-24 16:47:35.209 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-30 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1565a57e
+01-02-24 16:47:35.209 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Start completed.
+01-02-24 16:48:02.549 [Thread-118] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown initiated...
+01-02-24 16:48:02.556 [Thread-118] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown completed.
+01-02-24 16:48:03.702 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Starting...
+01-02-24 16:48:03.723 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-31 - Added connection com.mysql.cj.jdbc.ConnectionImpl@30800f44
+01-02-24 16:48:03.723 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Start completed.
+01-02-24 16:48:54.432 [Thread-122] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown initiated...
+01-02-24 16:48:54.439 [Thread-122] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown completed.
+01-02-24 16:48:54.859 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Starting...
+01-02-24 16:48:54.881 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-32 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6864f708
+01-02-24 16:48:54.882 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Start completed.
+01-02-24 16:49:41.284 [Thread-126] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown initiated...
+01-02-24 16:49:41.305 [Thread-126] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown completed.
+01-02-24 16:49:42.675 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Starting...
+01-02-24 16:49:42.691 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-33 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54f87eb0
+01-02-24 16:49:42.691 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Start completed.
+01-02-24 16:50:05.331 [Thread-130] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown initiated...
+01-02-24 16:50:05.342 [Thread-130] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown completed.
+01-02-24 16:50:05.971 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Starting...
+01-02-24 16:50:05.988 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-34 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5baaba8a
+01-02-24 16:50:05.988 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Start completed.
+01-02-24 16:50:19.399 [Thread-134] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown initiated...
+01-02-24 16:50:19.541 [Thread-134] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown completed.
+01-02-24 16:50:19.926 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Starting...
+01-02-24 16:50:19.938 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-35 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2287d1b6
+01-02-24 16:50:19.938 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Start completed.
+01-02-24 16:51:24.414 [Thread-138] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown initiated...
+01-02-24 16:51:24.555 [Thread-138] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown completed.
+01-02-24 16:51:24.961 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Starting...
+01-02-24 16:51:24.973 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-36 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53976172
+01-02-24 16:51:24.973 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Start completed.
+01-02-24 16:51:54.758 [Thread-142] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown initiated...
+01-02-24 16:51:54.770 [Thread-142] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown completed.
+01-02-24 16:51:55.189 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Starting...
+01-02-24 16:51:55.198 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-37 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e11f3b0
+01-02-24 16:51:55.199 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Start completed.
+01-02-24 16:52:45.516 [Thread-146] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown initiated...
+01-02-24 16:52:45.527 [Thread-146] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown completed.
+01-02-24 16:52:46.086 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Starting...
+01-02-24 16:52:46.213 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-38 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27b8a9d9
+01-02-24 16:52:46.213 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Start completed.
+01-02-24 16:53:17.966 [Thread-150] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown initiated...
+01-02-24 16:53:17.983 [Thread-150] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown completed.
+01-02-24 16:53:18.346 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Starting...
+01-02-24 16:53:18.356 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-39 - Added connection com.mysql.cj.jdbc.ConnectionImpl@49e95f
+01-02-24 16:53:18.356 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Start completed.
+01-02-24 17:11:18.225 [Thread-154] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown initiated...
+01-02-24 17:11:18.330 [Thread-154] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown completed.
+01-02-24 17:11:20.258 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Starting...
+01-02-24 17:11:20.286 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-40 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1be09ed8
+01-02-24 17:11:20.286 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Start completed.
+01-02-24 17:13:00.802 [Thread-158] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown initiated...
+01-02-24 17:13:00.821 [Thread-158] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown completed.
+01-02-24 17:13:02.054 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Starting...
+01-02-24 17:13:02.070 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-41 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1b52c6d
+01-02-24 17:13:02.070 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Start completed.
+01-02-24 17:27:34.711 [Thread-162] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Shutdown initiated...
+01-02-24 17:27:34.720 [Thread-162] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Shutdown completed.
+01-02-24 17:27:35.746 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Starting...
+01-02-24 17:27:35.764 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-42 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3035e070
+01-02-24 17:27:35.764 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Start completed.
+01-02-24 17:43:53.373 [Thread-166] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Shutdown initiated...
+01-02-24 17:43:53.409 [Thread-166] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Shutdown completed.
+01-02-24 17:43:54.273 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Starting...
+01-02-24 17:43:54.354 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-43 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34ff1d85
+01-02-24 17:43:54.354 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Start completed.
+01-02-24 17:44:56.660 [Thread-170] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Shutdown initiated...
+01-02-24 17:44:56.667 [Thread-170] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Shutdown completed.
+01-02-24 17:44:58.294 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Starting...
+01-02-24 17:44:58.347 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-44 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4803444a
+01-02-24 17:44:58.380 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Start completed.
+01-02-24 17:50:10.514 [Thread-174] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Shutdown initiated...
+01-02-24 17:50:10.522 [Thread-174] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Shutdown completed.
+01-02-24 17:50:11.219 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Starting...
+01-02-24 17:50:11.263 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-45 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a28fb8f
+01-02-24 17:50:11.263 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Start completed.
+01-02-24 17:52:18.288 [Thread-178] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Shutdown initiated...
+01-02-24 17:52:18.292 [Thread-178] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Shutdown completed.
+01-02-24 17:52:19.139 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Starting...
+01-02-24 17:52:19.181 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-46 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37be114f
+01-02-24 17:52:19.181 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Start completed.
+01-02-24 17:53:35.727 [Thread-182] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Shutdown initiated...
+01-02-24 17:53:35.734 [Thread-182] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Shutdown completed.
+01-02-24 17:53:36.812 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Starting...
+01-02-24 17:53:36.827 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-47 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3981efe2
+01-02-24 17:53:36.827 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Start completed.
+01-02-24 17:56:35.548 [Thread-186] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Shutdown initiated...
+01-02-24 17:56:35.562 [Thread-186] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Shutdown completed.
+01-02-24 17:56:36.274 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Starting...
+01-02-24 17:56:36.287 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-48 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b98bbfa
+01-02-24 17:56:36.287 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Start completed.
+01-02-24 18:00:20.733 [Thread-190] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Shutdown initiated...
+01-02-24 18:00:20.774 [Thread-190] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Shutdown completed.
+01-02-24 18:00:21.472 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Starting...
+01-02-24 18:00:21.485 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-49 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54d34ad3
+01-02-24 18:00:21.485 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Start completed.
+01-02-24 18:00:21.885 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Shutdown initiated...
+01-02-24 18:00:21.894 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Shutdown completed.
+01-02-24 18:00:29.132 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Starting...
+01-02-24 18:00:29.151 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-50 - Added connection com.mysql.cj.jdbc.ConnectionImpl@431fed7a
+01-02-24 18:00:29.151 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Start completed.
+01-02-24 18:03:04.099 [Thread-194] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Shutdown initiated...
+01-02-24 18:03:04.127 [Thread-194] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Shutdown completed.
+01-02-24 18:03:05.074 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Starting...
+01-02-24 18:03:05.088 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-51 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e748200
+01-02-24 18:03:05.088 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Start completed.
+01-02-24 18:06:58.114 [Thread-201] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Shutdown initiated...
+01-02-24 18:06:58.122 [Thread-201] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Shutdown completed.
+01-02-24 18:06:59.321 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Starting...
+01-02-24 18:06:59.348 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-52 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57f49299
+01-02-24 18:06:59.350 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Start completed.
+01-02-24 18:14:28.439 [Thread-205] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Shutdown initiated...
+01-02-24 18:14:28.445 [Thread-205] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Shutdown completed.
+01-02-24 18:14:28.946 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Starting...
+01-02-24 18:14:28.962 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-53 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1cd3bd6c
+01-02-24 18:14:28.962 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Start completed.
+01-02-24 18:27:22.942 [Thread-209] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Shutdown initiated...
+01-02-24 18:27:22.950 [Thread-209] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Shutdown completed.
+01-02-24 18:27:23.447 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Starting...
+01-02-24 18:27:23.459 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-54 - Added connection com.mysql.cj.jdbc.ConnectionImpl@10d0e4
+01-02-24 18:27:23.459 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Start completed.
+01-02-24 18:28:39.239 [Thread-213] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Shutdown initiated...
+01-02-24 18:28:39.253 [Thread-213] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Shutdown completed.
+01-02-24 18:28:39.619 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Starting...
+01-02-24 18:28:39.761 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-55 - Added connection com.mysql.cj.jdbc.ConnectionImpl@370a6d19
+01-02-24 18:28:39.761 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Start completed.
+01-02-24 18:29:53.563 [Thread-217] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Shutdown initiated...
+01-02-24 18:29:53.586 [Thread-217] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Shutdown completed.
+01-02-24 18:29:54.634 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Starting...
+01-02-24 18:29:54.643 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-56 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67a1c1b6
+01-02-24 18:29:54.643 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Start completed.
+01-02-24 18:30:47.370 [Thread-221] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Shutdown initiated...
+01-02-24 18:30:47.372 [Thread-221] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Shutdown completed.
+01-02-24 18:30:48.163 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Starting...
+01-02-24 18:30:48.180 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-57 - Added connection com.mysql.cj.jdbc.ConnectionImpl@77a58ceb
+01-02-24 18:30:48.180 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Start completed.
+01-02-24 18:31:26.422 [Thread-225] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Shutdown initiated...
+01-02-24 18:31:26.490 [Thread-225] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Shutdown completed.
+01-02-24 18:31:34.517 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Starting...
+01-02-24 18:31:34.530 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-58 - Added connection com.mysql.cj.jdbc.ConnectionImpl@207ab65a
+01-02-24 18:31:34.530 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Start completed.
+01-02-24 18:31:36.018 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Shutdown initiated...
+01-02-24 18:31:36.218 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Shutdown completed.
+01-02-24 18:31:40.449 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Starting...
+01-02-24 18:31:40.459 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-59 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6000945e
+01-02-24 18:31:40.459 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Start completed.
+01-02-24 18:31:41.423 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Shutdown initiated...
+01-02-24 18:31:41.436 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Shutdown completed.
+01-02-24 18:33:26.491 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Starting...
+01-02-24 18:33:26.507 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-60 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e044a03
+01-02-24 18:33:26.507 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Start completed.
+01-02-24 18:33:50.399 [Thread-229] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Shutdown initiated...
+01-02-24 18:33:50.404 [Thread-229] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Shutdown completed.
+01-02-24 18:33:50.901 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Starting...
+01-02-24 18:33:50.915 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-61 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2ca9db71
+01-02-24 18:33:50.916 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Start completed.
+01-02-24 18:34:25.615 [Thread-245] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Shutdown initiated...
+01-02-24 18:34:25.620 [Thread-245] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Shutdown completed.
+01-02-24 18:34:25.969 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Starting...
+01-02-24 18:34:25.982 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-62 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6f23a5ea
+01-02-24 18:34:25.982 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Start completed.
+01-02-24 18:34:43.535 [Thread-249] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Shutdown initiated...
+01-02-24 18:34:43.538 [Thread-249] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Shutdown completed.
+01-02-24 18:34:43.862 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Starting...
+01-02-24 18:34:43.870 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-63 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e769144
+01-02-24 18:34:43.870 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Start completed.
+01-02-24 18:35:16.842 [Thread-253] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Shutdown initiated...
+01-02-24 18:35:16.857 [Thread-253] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Shutdown completed.
+01-02-24 18:35:17.265 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Starting...
+01-02-24 18:35:17.282 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-64 - Added connection com.mysql.cj.jdbc.ConnectionImpl@430b9de6
+01-02-24 18:35:17.282 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Start completed.
+01-02-24 18:35:33.906 [Thread-257] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Shutdown initiated...
+01-02-24 18:35:33.914 [Thread-257] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Shutdown completed.
+01-02-24 18:35:35.023 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Starting...
+01-02-24 18:35:35.033 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-65 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a4429e3
+01-02-24 18:35:35.033 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Start completed.
+01-02-24 18:36:38.204 [Thread-261] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Shutdown initiated...
+01-02-24 18:36:38.217 [Thread-261] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Shutdown completed.
+01-02-24 18:36:39.297 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Starting...
+01-02-24 18:36:39.306 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-66 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1001edf0
+01-02-24 18:36:39.306 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Start completed.
+01-02-24 18:37:48.851 [Thread-265] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Shutdown initiated...
+01-02-24 18:37:48.862 [Thread-265] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Shutdown completed.
+01-02-24 18:37:49.310 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Starting...
+01-02-24 18:37:49.439 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-67 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7586ec87
+01-02-24 18:37:49.439 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Start completed.
+01-02-24 18:39:50.702 [Thread-269] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Shutdown initiated...
+01-02-24 18:39:50.713 [Thread-269] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Shutdown completed.
+01-02-24 18:39:51.180 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Starting...
+01-02-24 18:39:51.192 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-68 - Added connection com.mysql.cj.jdbc.ConnectionImpl@733bbfc3
+01-02-24 18:39:51.192 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Start completed.
+01-02-24 18:45:07.416 [Thread-273] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Shutdown initiated...
+01-02-24 18:45:07.429 [Thread-273] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Shutdown completed.
+01-02-24 18:45:08.994 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Starting...
+01-02-24 18:45:09.041 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-69 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f788289
+01-02-24 18:45:09.041 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Start completed.
+01-02-24 18:49:32.131 [Thread-277] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Shutdown initiated...
+01-02-24 18:49:32.148 [Thread-277] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Shutdown completed.
+01-02-24 18:49:32.729 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Starting...
+01-02-24 18:49:32.744 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-70 - Added connection com.mysql.cj.jdbc.ConnectionImpl@638b8377
+01-02-24 18:49:32.745 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Start completed.
+01-02-24 18:51:24.087 [Thread-281] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Shutdown initiated...
+01-02-24 18:51:24.091 [Thread-281] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Shutdown completed.
+01-02-24 18:51:24.648 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Starting...
+01-02-24 18:51:24.664 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-71 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7656bc09
+01-02-24 18:51:24.664 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Start completed.
+01-02-24 18:51:35.899 [Thread-285] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Shutdown initiated...
+01-02-24 18:51:35.903 [Thread-285] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Shutdown completed.
+01-02-24 18:51:36.158 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Starting...
+01-02-24 18:51:36.166 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-72 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d0c5e7d
+01-02-24 18:51:36.166 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Start completed.
+01-02-24 19:00:18.516 [Thread-289] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Shutdown initiated...
+01-02-24 19:00:18.529 [Thread-289] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-72 - Shutdown completed.
+01-02-24 19:00:19.307 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Starting...
+01-02-24 19:00:19.327 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-73 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4782b5bc
+01-02-24 19:00:19.327 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Start completed.
+01-02-24 19:01:43.425 [Thread-293] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Shutdown initiated...
+01-02-24 19:01:43.588 [Thread-293] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-73 - Shutdown completed.
+01-02-24 19:01:44.221 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Starting...
+01-02-24 19:01:44.375 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-74 - Added connection com.mysql.cj.jdbc.ConnectionImpl@21120637
+01-02-24 19:01:44.376 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Start completed.
+01-02-24 19:02:06.044 [Thread-297] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Shutdown initiated...
+01-02-24 19:02:06.048 [Thread-297] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-74 - Shutdown completed.
+01-02-24 19:02:06.349 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Starting...
+01-02-24 19:02:06.357 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-75 - Added connection com.mysql.cj.jdbc.ConnectionImpl@533ae303
+01-02-24 19:02:06.358 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Start completed.
+01-02-24 19:03:03.226 [Thread-301] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Shutdown initiated...
+01-02-24 19:03:03.360 [Thread-301] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-75 - Shutdown completed.
+01-02-24 19:03:04.340 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Starting...
+01-02-24 19:03:04.356 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-76 - Added connection com.mysql.cj.jdbc.ConnectionImpl@10739463
+01-02-24 19:03:04.356 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Start completed.
+01-02-24 19:03:18.156 [Thread-305] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Shutdown initiated...
+01-02-24 19:03:18.163 [Thread-305] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-76 - Shutdown completed.
+01-02-24 19:03:19.292 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-77 - Starting...
+01-02-24 19:03:19.298 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-77 - Added connection com.mysql.cj.jdbc.ConnectionImpl@ff70bb7
+01-02-24 19:03:19.299 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-77 - Start completed.
+01-02-24 19:06:28.522 [Thread-309] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-77 - Shutdown initiated...
+01-02-24 19:06:28.528 [Thread-309] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-77 - Shutdown completed.
+01-02-24 19:06:30.274 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-78 - Starting...
+01-02-24 19:06:30.285 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-78 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a4644d6
+01-02-24 19:06:30.285 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-78 - Start completed.
+01-02-24 19:06:57.968 [Thread-313] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-78 - Shutdown initiated...
+01-02-24 19:06:57.973 [Thread-313] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-78 - Shutdown completed.
+01-02-24 19:06:58.650 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-79 - Starting...
+01-02-24 19:06:58.663 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-79 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ee0a64b
+01-02-24 19:06:58.663 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-79 - Start completed.
+01-02-24 19:07:59.575 [Thread-317] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-79 - Shutdown initiated...
+01-02-24 19:07:59.584 [Thread-317] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-79 - Shutdown completed.
+01-02-24 19:08:01.034 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-80 - Starting...
+01-02-24 19:08:01.055 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-80 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ea73b1d
+01-02-24 19:08:01.055 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-80 - Start completed.
+01-02-24 19:09:31.690 [Thread-321] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-80 - Shutdown initiated...
+01-02-24 19:09:31.708 [Thread-321] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-80 - Shutdown completed.
+01-02-24 19:09:32.429 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-81 - Starting...
+01-02-24 19:09:32.440 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-81 - Added connection com.mysql.cj.jdbc.ConnectionImpl@63176a42
+01-02-24 19:09:32.440 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-81 - Start completed.
+01-02-24 19:10:12.675 [Thread-325] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-81 - Shutdown initiated...
+01-02-24 19:10:12.679 [Thread-325] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-81 - Shutdown completed.
+01-02-24 19:10:13.119 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-82 - Starting...
+01-02-24 19:10:13.128 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-82 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3afdfda6
+01-02-24 19:10:13.128 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-82 - Start completed.
+02-02-24 11:58:15.021 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+02-02-24 11:58:15.423 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70239534
+02-02-24 11:58:15.426 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+02-02-24 12:00:50.076 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+02-02-24 12:00:50.092 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+02-02-24 12:16:22.675 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+02-02-24 12:16:22.729 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@38a2a11c
+02-02-24 12:16:22.729 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+02-02-24 12:16:24.356 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+02-02-24 12:16:24.550 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+02-02-24 12:16:42.236 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+02-02-24 12:16:42.262 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29ab5cd4
+02-02-24 12:16:42.263 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+02-02-24 12:19:12.466 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown initiated...
+02-02-24 12:19:12.521 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown completed.
+02-02-24 12:19:13.601 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Starting...
+02-02-24 12:19:13.617 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7c0bc034
+02-02-24 12:19:13.618 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Start completed.
+02-02-24 12:19:14.151 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown initiated...
+02-02-24 12:19:14.206 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown completed.
+02-02-24 12:19:53.110 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Starting...
+02-02-24 12:19:53.124 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e3b6360
+02-02-24 12:19:53.124 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Start completed.
+02-02-24 12:19:54.379 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown initiated...
+02-02-24 12:19:54.409 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown completed.
+02-02-24 12:20:00.990 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Starting...
+02-02-24 12:20:01.001 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6632c252
+02-02-24 12:20:01.002 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Start completed.
+02-02-24 12:20:27.454 [Thread-17] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown initiated...
+02-02-24 12:20:27.459 [Thread-17] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown completed.
+02-02-24 12:20:28.411 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Starting...
+02-02-24 12:20:28.424 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4eccb95
+02-02-24 12:20:28.424 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Start completed.
+02-02-24 12:20:48.297 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown initiated...
+02-02-24 12:20:48.327 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown completed.
+02-02-24 12:20:48.947 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Starting...
+02-02-24 12:20:48.960 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1ccbfe0d
+02-02-24 12:20:48.960 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Start completed.
+02-02-24 12:21:06.791 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown initiated...
+02-02-24 12:21:06.798 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown completed.
+02-02-24 12:21:07.435 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Starting...
+02-02-24 12:21:07.449 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a0f31a9
+02-02-24 12:21:07.450 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Start completed.
+02-02-24 12:21:24.305 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown initiated...
+02-02-24 12:21:24.314 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown completed.
+02-02-24 12:21:25.759 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Starting...
+02-02-24 12:21:25.773 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-10 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57fe5bb8
+02-02-24 12:21:25.773 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Start completed.
+02-02-24 12:22:54.983 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown initiated...
+02-02-24 12:22:54.999 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown completed.
+02-02-24 12:23:08.144 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Starting...
+02-02-24 12:23:08.158 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-11 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64c9c67f
+02-02-24 12:23:08.159 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Start completed.
+02-02-24 12:23:08.380 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown initiated...
+02-02-24 12:23:08.412 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown completed.
+02-02-24 12:23:36.968 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Starting...
+02-02-24 12:23:36.985 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-12 - Added connection com.mysql.cj.jdbc.ConnectionImpl@702867c8
+02-02-24 12:23:36.985 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Start completed.
+02-02-24 12:24:07.286 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown initiated...
+02-02-24 12:24:07.295 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown completed.
+02-02-24 12:24:07.672 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Starting...
+02-02-24 12:24:07.685 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-13 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6af4a031
+02-02-24 12:24:07.685 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Start completed.
+02-02-24 12:24:54.448 [Thread-53] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown initiated...
+02-02-24 12:24:54.462 [Thread-53] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown completed.
+02-02-24 12:24:55.102 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Starting...
+02-02-24 12:24:55.116 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@42d8892d
+02-02-24 12:24:55.116 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Start completed.
+02-02-24 12:27:30.941 [Thread-57] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown initiated...
+02-02-24 12:27:30.949 [Thread-57] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown completed.
+02-02-24 12:27:31.821 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Starting...
+02-02-24 12:27:31.834 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7bc8352a
+02-02-24 12:27:31.834 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Start completed.
+02-02-24 12:28:06.606 [Thread-61] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown initiated...
+02-02-24 12:28:06.612 [Thread-61] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown completed.
+02-02-24 12:28:07.056 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Starting...
+02-02-24 12:28:07.067 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-16 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f65142c
+02-02-24 12:28:07.067 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Start completed.
+02-02-24 12:29:34.120 [Thread-65] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown initiated...
+02-02-24 12:29:34.125 [Thread-65] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown completed.
+02-02-24 12:29:34.365 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Starting...
+02-02-24 12:29:34.374 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-17 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d516670
+02-02-24 12:29:34.374 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Start completed.
+02-02-24 12:43:23.133 [Thread-69] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown initiated...
+02-02-24 12:43:23.142 [Thread-69] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown completed.
+02-02-24 12:43:23.629 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Starting...
+02-02-24 12:43:23.653 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-18 - Added connection com.mysql.cj.jdbc.ConnectionImpl@426e87f0
+02-02-24 12:43:23.654 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Start completed.
+02-02-24 12:58:18.250 [Thread-73] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown initiated...
+02-02-24 12:58:18.275 [Thread-73] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown completed.
+02-02-24 12:58:19.519 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Starting...
+02-02-24 12:58:19.683 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-19 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f4527f2
+02-02-24 12:58:19.683 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Start completed.
+02-02-24 13:13:18.173 [Thread-77] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown initiated...
+02-02-24 13:13:18.196 [Thread-77] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown completed.
+02-02-24 13:13:19.772 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Starting...
+02-02-24 13:13:19.952 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-20 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1cedc0a7
+02-02-24 13:13:19.952 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Start completed.
+02-02-24 13:14:02.579 [Thread-81] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown initiated...
+02-02-24 13:14:02.599 [Thread-81] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown completed.
+02-02-24 13:14:03.466 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Starting...
+02-02-24 13:14:03.480 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-21 - Added connection com.mysql.cj.jdbc.ConnectionImpl@581f8621
+02-02-24 13:14:03.481 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Start completed.
+02-02-24 13:14:40.299 [Thread-85] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown initiated...
+02-02-24 13:14:40.375 [Thread-85] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown completed.
+02-02-24 13:14:41.185 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Starting...
+02-02-24 13:14:41.223 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-22 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5389536
+02-02-24 13:14:41.224 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Start completed.
+02-02-24 13:18:19.068 [Thread-89] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown initiated...
+02-02-24 13:18:19.082 [Thread-89] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown completed.
+02-02-24 13:18:19.509 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Starting...
+02-02-24 13:18:19.524 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-23 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7765fecb
+02-02-24 13:18:19.525 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Start completed.
+02-02-24 13:18:20.835 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown initiated...
+02-02-24 13:18:21.002 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown completed.
+02-02-24 13:21:04.673 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Starting...
+02-02-24 13:21:04.687 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-24 - Added connection com.mysql.cj.jdbc.ConnectionImpl@382e0f6f
+02-02-24 13:21:04.687 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Start completed.
+02-02-24 13:22:11.457 [Thread-93] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown initiated...
+02-02-24 13:22:11.463 [Thread-93] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown completed.
+02-02-24 13:22:11.987 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Starting...
+02-02-24 13:22:12.001 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-25 - Added connection com.mysql.cj.jdbc.ConnectionImpl@19c03dc5
+02-02-24 13:22:12.001 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Start completed.
+02-02-24 13:22:12.268 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown initiated...
+02-02-24 13:22:12.291 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown completed.
+02-02-24 13:22:18.719 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Starting...
+02-02-24 13:22:18.731 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-26 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ce2f2e1
+02-02-24 13:22:18.732 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Start completed.
+02-02-24 13:24:06.381 [Thread-100] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown initiated...
+02-02-24 13:24:06.431 [Thread-100] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown completed.
+02-02-24 13:24:07.160 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Starting...
+02-02-24 13:24:07.171 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-27 - Added connection com.mysql.cj.jdbc.ConnectionImpl@dd736e6
+02-02-24 13:24:07.171 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Start completed.
+02-02-24 13:25:15.537 [Thread-107] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown initiated...
+02-02-24 13:25:15.691 [Thread-107] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown completed.
+02-02-24 13:25:16.179 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Starting...
+02-02-24 13:25:16.210 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-28 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55b1ddb9
+02-02-24 13:25:16.211 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Start completed.
+02-02-24 13:25:21.973 [Thread-111] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown initiated...
+02-02-24 13:25:21.988 [Thread-111] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown completed.
+02-02-24 13:25:22.452 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Starting...
+02-02-24 13:25:22.462 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-29 - Added connection com.mysql.cj.jdbc.ConnectionImpl@61676972
+02-02-24 13:25:22.462 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Start completed.
+02-02-24 13:25:58.782 [Thread-115] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown initiated...
+02-02-24 13:25:58.792 [Thread-115] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown completed.
+02-02-24 13:25:59.869 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Starting...
+02-02-24 13:25:59.881 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-30 - Added connection com.mysql.cj.jdbc.ConnectionImpl@10ee924
+02-02-24 13:25:59.881 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Start completed.
+02-02-24 13:26:37.819 [Thread-119] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown initiated...
+02-02-24 13:26:37.822 [Thread-119] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown completed.
+02-02-24 13:26:38.224 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Starting...
+02-02-24 13:26:38.235 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-31 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c47227b
+02-02-24 13:26:38.235 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Start completed.
+02-02-24 13:28:29.059 [Thread-123] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown initiated...
+02-02-24 13:28:29.067 [Thread-123] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown completed.
+02-02-24 13:28:29.454 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Starting...
+02-02-24 13:28:29.463 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-32 - Added connection com.mysql.cj.jdbc.ConnectionImpl@729a9128
+02-02-24 13:28:29.463 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Start completed.
+02-02-24 13:30:29.470 [Thread-127] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown initiated...
+02-02-24 13:30:29.752 [Thread-127] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown completed.
+02-02-24 13:30:31.441 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Starting...
+02-02-24 13:30:31.463 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-33 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d6c98a0
+02-02-24 13:30:31.463 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Start completed.
+02-02-24 13:33:01.183 [Thread-131] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown initiated...
+02-02-24 13:33:01.188 [Thread-131] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown completed.
+02-02-24 13:33:01.595 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Starting...
+02-02-24 13:33:01.607 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-34 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75558e3e
+02-02-24 13:33:01.608 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Start completed.
+02-02-24 13:35:24.309 [Thread-135] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown initiated...
+02-02-24 13:35:24.318 [Thread-135] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown completed.
+02-02-24 13:35:24.756 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Starting...
+02-02-24 13:35:24.768 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-35 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e4d7a2
+02-02-24 13:35:24.768 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Start completed.
+02-02-24 13:35:25.084 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown initiated...
+02-02-24 13:35:25.224 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown completed.
+02-02-24 13:39:32.910 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Starting...
+02-02-24 13:39:32.923 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-36 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7534f6e6
+02-02-24 13:39:32.923 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Start completed.
+02-02-24 13:39:33.302 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown initiated...
+02-02-24 13:39:33.323 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown completed.
+02-02-24 13:41:21.139 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Starting...
+02-02-24 13:41:21.153 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-37 - Added connection com.mysql.cj.jdbc.ConnectionImpl@500da32d
+02-02-24 13:41:21.154 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Start completed.
+02-02-24 13:41:35.528 [Thread-139] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown initiated...
+02-02-24 13:41:35.558 [Thread-139] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown completed.
+02-02-24 13:41:35.920 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Starting...
+02-02-24 13:41:35.930 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-38 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d0c30a6
+02-02-24 13:41:35.930 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Start completed.
+02-02-24 13:41:45.774 [Thread-149] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown initiated...
+02-02-24 13:41:45.779 [Thread-149] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown completed.
+02-02-24 13:41:46.800 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Starting...
+02-02-24 13:41:46.835 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-39 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14aa069
+02-02-24 13:41:46.835 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Start completed.
+02-02-24 13:43:16.927 [Thread-153] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown initiated...
+02-02-24 13:43:16.932 [Thread-153] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown completed.
+02-02-24 13:43:17.317 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Starting...
+02-02-24 13:43:17.327 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-40 - Added connection com.mysql.cj.jdbc.ConnectionImpl@661cfec1
+02-02-24 13:43:17.328 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Start completed.
+02-02-24 13:44:15.984 [Thread-157] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown initiated...
+02-02-24 13:44:15.987 [Thread-157] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown completed.
+02-02-24 13:44:16.435 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Starting...
+02-02-24 13:44:16.448 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-41 - Added connection com.mysql.cj.jdbc.ConnectionImpl@753b28e7
+02-02-24 13:44:16.449 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Start completed.
+02-02-24 13:51:20.990 [Thread-161] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Shutdown initiated...
+02-02-24 13:51:21.001 [Thread-161] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Shutdown completed.
+02-02-24 13:51:22.225 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Starting...
+02-02-24 13:51:22.248 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-42 - Added connection com.mysql.cj.jdbc.ConnectionImpl@468f1e4a
+02-02-24 13:51:22.248 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Start completed.
+02-02-24 13:53:03.120 [Thread-165] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Shutdown initiated...
+02-02-24 13:53:03.151 [Thread-165] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-42 - Shutdown completed.
+02-02-24 13:53:03.773 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Starting...
+02-02-24 13:53:03.784 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-43 - Added connection com.mysql.cj.jdbc.ConnectionImpl@49ef1404
+02-02-24 13:53:03.784 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Start completed.
+02-02-24 13:53:41.414 [Thread-169] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Shutdown initiated...
+02-02-24 13:53:41.420 [Thread-169] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-43 - Shutdown completed.
+02-02-24 13:53:41.799 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Starting...
+02-02-24 13:53:41.811 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-44 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57aa859d
+02-02-24 13:53:41.811 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Start completed.
+02-02-24 13:55:34.661 [Thread-173] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Shutdown initiated...
+02-02-24 13:55:34.681 [Thread-173] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-44 - Shutdown completed.
+02-02-24 13:55:35.847 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Starting...
+02-02-24 13:55:35.856 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-45 - Added connection com.mysql.cj.jdbc.ConnectionImpl@233caafb
+02-02-24 13:55:35.856 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Start completed.
+02-02-24 14:11:23.323 [Thread-177] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Shutdown initiated...
+02-02-24 14:11:23.332 [Thread-177] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-45 - Shutdown completed.
+02-02-24 14:11:24.135 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Starting...
+02-02-24 14:11:24.154 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-46 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a3e2637
+02-02-24 14:11:24.154 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Start completed.
+02-02-24 14:11:36.304 [Thread-181] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Shutdown initiated...
+02-02-24 14:11:36.314 [Thread-181] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-46 - Shutdown completed.
+02-02-24 14:11:37.848 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Starting...
+02-02-24 14:11:37.861 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-47 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a821ed
+02-02-24 14:11:37.861 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Start completed.
+02-02-24 14:12:28.533 [Thread-185] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Shutdown initiated...
+02-02-24 14:12:28.542 [Thread-185] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-47 - Shutdown completed.
+02-02-24 14:12:29.207 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Starting...
+02-02-24 14:12:29.218 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-48 - Added connection com.mysql.cj.jdbc.ConnectionImpl@23da3ac1
+02-02-24 14:12:29.219 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Start completed.
+02-02-24 14:21:59.544 [Thread-189] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Shutdown initiated...
+02-02-24 14:21:59.556 [Thread-189] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-48 - Shutdown completed.
+02-02-24 14:22:00.231 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Starting...
+02-02-24 14:22:00.259 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-49 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5dd10e6d
+02-02-24 14:22:00.260 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Start completed.
+02-02-24 14:22:52.169 [Thread-193] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Shutdown initiated...
+02-02-24 14:22:52.172 [Thread-193] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-49 - Shutdown completed.
+02-02-24 14:22:52.469 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Starting...
+02-02-24 14:22:52.478 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-50 - Added connection com.mysql.cj.jdbc.ConnectionImpl@33060c28
+02-02-24 14:22:52.478 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Start completed.
+02-02-24 14:31:12.029 [Thread-197] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Shutdown initiated...
+02-02-24 14:31:12.052 [Thread-197] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-50 - Shutdown completed.
+02-02-24 14:31:12.573 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Starting...
+02-02-24 14:31:12.584 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-51 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f23d41b
+02-02-24 14:31:12.584 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Start completed.
+02-02-24 14:37:10.322 [Thread-201] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Shutdown initiated...
+02-02-24 14:37:10.327 [Thread-201] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-51 - Shutdown completed.
+02-02-24 14:37:11.303 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Starting...
+02-02-24 14:37:11.318 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-52 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4617911b
+02-02-24 14:37:11.318 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Start completed.
+02-02-24 14:37:35.902 [Thread-205] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Shutdown initiated...
+02-02-24 14:37:35.951 [Thread-205] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-52 - Shutdown completed.
+02-02-24 14:37:36.817 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Starting...
+02-02-24 14:37:36.844 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-53 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4500e92
+02-02-24 14:37:36.845 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Start completed.
+02-02-24 14:37:54.063 [Thread-209] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Shutdown initiated...
+02-02-24 14:37:54.226 [Thread-209] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-53 - Shutdown completed.
+02-02-24 14:37:54.554 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Starting...
+02-02-24 14:37:54.565 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-54 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e0844c5
+02-02-24 14:37:54.566 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Start completed.
+02-02-24 14:38:13.935 [Thread-213] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Shutdown initiated...
+02-02-24 14:38:13.941 [Thread-213] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-54 - Shutdown completed.
+02-02-24 14:38:14.591 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Starting...
+02-02-24 14:38:14.599 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-55 - Added connection com.mysql.cj.jdbc.ConnectionImpl@46fbb524
+02-02-24 14:38:14.600 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Start completed.
+02-02-24 14:38:34.053 [Thread-217] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Shutdown initiated...
+02-02-24 14:38:34.061 [Thread-217] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-55 - Shutdown completed.
+02-02-24 14:38:35.369 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Starting...
+02-02-24 14:38:35.384 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-56 - Added connection com.mysql.cj.jdbc.ConnectionImpl@35041d48
+02-02-24 14:38:35.384 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Start completed.
+02-02-24 14:38:39.691 [Thread-221] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Shutdown initiated...
+02-02-24 14:38:39.695 [Thread-221] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-56 - Shutdown completed.
+02-02-24 14:38:40.747 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Starting...
+02-02-24 14:38:40.762 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-57 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72f7032
+02-02-24 14:38:40.762 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Start completed.
+02-02-24 14:47:17.690 [Thread-225] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Shutdown initiated...
+02-02-24 14:47:17.702 [Thread-225] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-57 - Shutdown completed.
+02-02-24 14:47:18.386 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Starting...
+02-02-24 14:47:18.398 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-58 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8f7845b
+02-02-24 14:47:18.398 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Start completed.
+02-02-24 14:48:22.611 [Thread-229] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Shutdown initiated...
+02-02-24 14:48:22.621 [Thread-229] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-58 - Shutdown completed.
+02-02-24 14:48:23.584 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Starting...
+02-02-24 14:48:23.596 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-59 - Added connection com.mysql.cj.jdbc.ConnectionImpl@51458ba4
+02-02-24 14:48:23.596 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Start completed.
+02-02-24 14:50:13.464 [Thread-233] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Shutdown initiated...
+02-02-24 14:50:13.470 [Thread-233] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-59 - Shutdown completed.
+02-02-24 14:50:14.647 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Starting...
+02-02-24 14:50:14.660 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-60 - Added connection com.mysql.cj.jdbc.ConnectionImpl@16b4b238
+02-02-24 14:50:14.661 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Start completed.
+02-02-24 14:50:42.475 [Thread-237] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Shutdown initiated...
+02-02-24 14:50:42.555 [Thread-237] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-60 - Shutdown completed.
+02-02-24 14:50:43.350 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Starting...
+02-02-24 14:50:43.366 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-61 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29f4ef9a
+02-02-24 14:50:43.367 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Start completed.
+02-02-24 14:51:20.267 [Thread-241] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Shutdown initiated...
+02-02-24 14:51:20.272 [Thread-241] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-61 - Shutdown completed.
+02-02-24 14:51:20.934 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Starting...
+02-02-24 14:51:20.946 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-62 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d77883d
+02-02-24 14:51:20.946 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Start completed.
+02-02-24 14:52:04.585 [Thread-245] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Shutdown initiated...
+02-02-24 14:52:04.624 [Thread-245] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-62 - Shutdown completed.
+02-02-24 14:52:05.605 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Starting...
+02-02-24 14:52:05.615 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-63 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5cc5a3ee
+02-02-24 14:52:05.615 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Start completed.
+02-02-24 14:55:35.889 [Thread-249] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Shutdown initiated...
+02-02-24 14:55:35.918 [Thread-249] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-63 - Shutdown completed.
+02-02-24 14:55:36.487 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Starting...
+02-02-24 14:55:36.497 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-64 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64ada4d1
+02-02-24 14:55:36.497 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Start completed.
+02-02-24 14:56:48.552 [Thread-253] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Shutdown initiated...
+02-02-24 14:56:48.556 [Thread-253] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-64 - Shutdown completed.
+02-02-24 14:56:49.383 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Starting...
+02-02-24 14:56:49.435 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-65 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6cbef588
+02-02-24 14:56:49.436 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Start completed.
+02-02-24 15:09:14.574 [Thread-257] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Shutdown initiated...
+02-02-24 15:09:14.579 [Thread-257] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-65 - Shutdown completed.
+02-02-24 15:09:15.989 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Starting...
+02-02-24 15:09:16.002 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-66 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7409187e
+02-02-24 15:09:16.003 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Start completed.
+02-02-24 15:09:17.429 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Shutdown initiated...
+02-02-24 15:09:17.594 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-66 - Shutdown completed.
+02-02-24 15:10:00.887 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Starting...
+02-02-24 15:10:00.897 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-67 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5cb220b9
+02-02-24 15:10:00.898 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Start completed.
+02-02-24 15:10:27.791 [Thread-261] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Shutdown initiated...
+02-02-24 15:10:27.796 [Thread-261] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-67 - Shutdown completed.
+02-02-24 15:10:28.870 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Starting...
+02-02-24 15:10:29.018 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-68 - Added connection com.mysql.cj.jdbc.ConnectionImpl@15a75aa5
+02-02-24 15:10:29.018 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Start completed.
+02-02-24 15:38:08.953 [Thread-268] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Shutdown initiated...
+02-02-24 15:38:09.010 [Thread-268] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-68 - Shutdown completed.
+02-02-24 15:38:09.716 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Starting...
+02-02-24 15:38:09.742 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-69 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6434c7dc
+02-02-24 15:38:09.742 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Start completed.
+02-02-24 15:39:27.079 [Thread-272] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Shutdown initiated...
+02-02-24 15:39:27.085 [Thread-272] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-69 - Shutdown completed.
+02-02-24 15:39:27.543 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Starting...
+02-02-24 15:39:27.557 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-70 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c1a412c
+02-02-24 15:39:27.557 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Start completed.
+02-02-24 15:55:21.152 [Thread-276] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Shutdown initiated...
+02-02-24 15:55:21.171 [Thread-276] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-70 - Shutdown completed.
+02-02-24 15:55:22.700 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Starting...
+02-02-24 15:55:23.587 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-71 - Added connection com.mysql.cj.jdbc.ConnectionImpl@31dfbdcb
+02-02-24 15:55:23.587 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-71 - Start completed.
+02-02-24 15:59:30.834 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+02-02-24 15:59:31.488 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@382f9320
+02-02-24 15:59:31.492 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+02-02-24 16:08:02.971 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+02-02-24 16:08:03.020 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+02-02-24 16:08:06.372 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+02-02-24 16:08:06.404 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59414b74
+02-02-24 16:08:06.405 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+02-02-24 16:10:53.617 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+02-02-24 16:10:53.654 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+02-02-24 16:10:55.680 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+02-02-24 16:10:55.714 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3987ec7b
+02-02-24 16:10:55.715 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+02-02-24 16:13:05.221 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown initiated...
+02-02-24 16:13:05.317 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown completed.
+02-02-24 16:13:06.406 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Starting...
+02-02-24 16:13:06.423 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1984fb23
+02-02-24 16:13:06.423 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Start completed.
+02-02-24 16:30:40.113 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown initiated...
+02-02-24 16:30:40.372 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown completed.
+02-02-24 16:30:41.763 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Starting...
+02-02-24 16:30:41.786 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@401b99cd
+02-02-24 16:30:41.788 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Start completed.
+02-02-24 16:31:39.868 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown initiated...
+02-02-24 16:31:39.883 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Shutdown completed.
+02-02-24 16:31:40.377 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Starting...
+02-02-24 16:31:40.483 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ff17d78
+02-02-24 16:31:40.483 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Start completed.
+02-02-24 16:33:10.928 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown initiated...
+02-02-24 16:33:11.042 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-6 - Shutdown completed.
+02-02-24 16:33:11.700 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Starting...
+02-02-24 16:33:11.714 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@267f60b5
+02-02-24 16:33:11.714 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Start completed.
+02-02-24 16:35:27.417 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown initiated...
+02-02-24 16:35:27.494 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-7 - Shutdown completed.
+02-02-24 16:35:28.342 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Starting...
+02-02-24 16:35:28.435 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4780c03
+02-02-24 16:35:28.435 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Start completed.
+02-02-24 16:36:50.717 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown initiated...
+02-02-24 16:36:50.732 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-8 - Shutdown completed.
+02-02-24 16:36:51.525 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Starting...
+02-02-24 16:36:51.738 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c6ad3a8
+02-02-24 16:36:51.738 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Start completed.
+02-02-24 16:43:50.174 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown initiated...
+02-02-24 16:43:50.193 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-9 - Shutdown completed.
+02-02-24 16:43:51.002 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Starting...
+02-02-24 16:43:51.019 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-10 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f5e9fe1
+02-02-24 16:43:51.019 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Start completed.
+02-02-24 16:47:31.528 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown initiated...
+02-02-24 16:47:31.538 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-10 - Shutdown completed.
+02-02-24 16:47:32.587 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Starting...
+02-02-24 16:47:32.603 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-11 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2830256d
+02-02-24 16:47:32.603 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Start completed.
+02-02-24 16:47:36.539 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown initiated...
+02-02-24 16:47:36.548 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-11 - Shutdown completed.
+02-02-24 16:47:36.990 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Starting...
+02-02-24 16:47:37.001 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-12 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fbc08fe
+02-02-24 16:47:37.002 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Start completed.
+02-02-24 16:53:57.633 [Thread-47] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown initiated...
+02-02-24 16:53:57.742 [Thread-47] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-12 - Shutdown completed.
+02-02-24 16:53:58.452 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Starting...
+02-02-24 16:53:58.465 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-13 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32616271
+02-02-24 16:53:58.466 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Start completed.
+02-02-24 16:55:41.125 [Thread-51] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown initiated...
+02-02-24 16:55:41.132 [Thread-51] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-13 - Shutdown completed.
+02-02-24 16:55:41.927 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Starting...
+02-02-24 16:55:41.941 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a57cc7a
+02-02-24 16:55:41.942 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Start completed.
+02-02-24 16:55:58.374 [Thread-55] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown initiated...
+02-02-24 16:55:58.384 [Thread-55] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-14 - Shutdown completed.
+02-02-24 16:55:59.650 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Starting...
+02-02-24 16:55:59.662 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71b8bfeb
+02-02-24 16:55:59.662 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Start completed.
+02-02-24 16:57:49.000 [Thread-59] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown initiated...
+02-02-24 16:57:49.008 [Thread-59] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-15 - Shutdown completed.
+02-02-24 16:57:50.072 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Starting...
+02-02-24 16:57:50.097 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-16 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2858a0e7
+02-02-24 16:57:50.098 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Start completed.
+02-02-24 16:57:57.351 [Thread-63] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown initiated...
+02-02-24 16:57:57.360 [Thread-63] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-16 - Shutdown completed.
+02-02-24 16:57:57.765 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Starting...
+02-02-24 16:57:57.775 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-17 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b69f894
+02-02-24 16:57:57.776 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Start completed.
+02-02-24 16:58:07.709 [Thread-67] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown initiated...
+02-02-24 16:58:07.728 [Thread-67] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-17 - Shutdown completed.
+02-02-24 16:58:08.122 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Starting...
+02-02-24 16:58:08.132 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-18 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71010b7a
+02-02-24 16:58:08.133 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Start completed.
+02-02-24 16:59:27.399 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown initiated...
+02-02-24 16:59:27.411 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-18 - Shutdown completed.
+02-02-24 16:59:27.834 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Starting...
+02-02-24 16:59:27.844 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-19 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25328973
+02-02-24 16:59:27.844 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Start completed.
+02-02-24 17:05:00.455 [Thread-75] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown initiated...
+02-02-24 17:05:00.459 [Thread-75] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-19 - Shutdown completed.
+02-02-24 17:05:01.258 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Starting...
+02-02-24 17:05:01.268 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-20 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d0ad67e
+02-02-24 17:05:01.268 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Start completed.
+02-02-24 17:06:50.125 [Thread-79] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown initiated...
+02-02-24 17:06:50.168 [Thread-79] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-20 - Shutdown completed.
+02-02-24 17:06:52.148 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Starting...
+02-02-24 17:06:52.176 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-21 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2580ca91
+02-02-24 17:06:52.177 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Start completed.
+02-02-24 17:09:53.655 [Thread-83] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown initiated...
+02-02-24 17:09:53.667 [Thread-83] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-21 - Shutdown completed.
+02-02-24 17:09:54.979 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Starting...
+02-02-24 17:09:54.990 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-22 - Added connection com.mysql.cj.jdbc.ConnectionImpl@61dd22b7
+02-02-24 17:09:54.990 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Start completed.
+02-02-24 17:14:10.308 [Thread-87] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown initiated...
+02-02-24 17:14:10.315 [Thread-87] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-22 - Shutdown completed.
+02-02-24 17:14:10.672 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Starting...
+02-02-24 17:14:10.685 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-23 - Added connection com.mysql.cj.jdbc.ConnectionImpl@534615ee
+02-02-24 17:14:10.685 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Start completed.
+02-02-24 17:18:59.054 [Thread-91] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown initiated...
+02-02-24 17:18:59.062 [Thread-91] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-23 - Shutdown completed.
+02-02-24 17:18:59.702 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Starting...
+02-02-24 17:18:59.714 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-24 - Added connection com.mysql.cj.jdbc.ConnectionImpl@700824d4
+02-02-24 17:18:59.715 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Start completed.
+02-02-24 17:28:27.063 [Thread-95] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown initiated...
+02-02-24 17:28:27.201 [Thread-95] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-24 - Shutdown completed.
+02-02-24 17:28:27.969 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Starting...
+02-02-24 17:28:28.032 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-25 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24b03fd5
+02-02-24 17:28:28.032 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Start completed.
+02-02-24 17:29:11.372 [Thread-99] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown initiated...
+02-02-24 17:29:11.427 [Thread-99] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-25 - Shutdown completed.
+02-02-24 17:29:12.512 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Starting...
+02-02-24 17:29:12.521 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-26 - Added connection com.mysql.cj.jdbc.ConnectionImpl@47bb25ce
+02-02-24 17:29:12.521 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Start completed.
+02-02-24 17:29:37.165 [Thread-103] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown initiated...
+02-02-24 17:29:37.172 [Thread-103] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-26 - Shutdown completed.
+02-02-24 17:29:38.309 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Starting...
+02-02-24 17:29:38.322 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-27 - Added connection com.mysql.cj.jdbc.ConnectionImpl@300c6adb
+02-02-24 17:29:38.322 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Start completed.
+02-02-24 17:29:48.065 [Thread-107] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown initiated...
+02-02-24 17:29:48.250 [Thread-107] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-27 - Shutdown completed.
+02-02-24 17:29:49.647 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Starting...
+02-02-24 17:29:49.662 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-28 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27dc7c93
+02-02-24 17:29:49.662 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Start completed.
+02-02-24 17:32:08.132 [Thread-111] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown initiated...
+02-02-24 17:32:08.140 [Thread-111] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-28 - Shutdown completed.
+02-02-24 17:32:08.939 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Starting...
+02-02-24 17:32:08.950 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-29 - Added connection com.mysql.cj.jdbc.ConnectionImpl@487b5777
+02-02-24 17:32:08.950 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Start completed.
+02-02-24 17:39:29.268 [Thread-115] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown initiated...
+02-02-24 17:39:29.388 [Thread-115] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-29 - Shutdown completed.
+02-02-24 17:39:30.708 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Starting...
+02-02-24 17:39:30.723 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-30 - Added connection com.mysql.cj.jdbc.ConnectionImpl@eae6b31
+02-02-24 17:39:30.723 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Start completed.
+02-02-24 17:47:36.921 [Thread-119] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown initiated...
+02-02-24 17:47:36.934 [Thread-119] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-30 - Shutdown completed.
+02-02-24 17:47:37.950 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Starting...
+02-02-24 17:47:37.968 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-31 - Added connection com.mysql.cj.jdbc.ConnectionImpl@31bc071a
+02-02-24 17:47:37.968 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Start completed.
+02-02-24 17:47:52.412 [Thread-123] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown initiated...
+02-02-24 17:47:52.416 [Thread-123] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-31 - Shutdown completed.
+02-02-24 17:47:53.019 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Starting...
+02-02-24 17:47:53.027 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-32 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41b6ad2f
+02-02-24 17:47:53.028 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Start completed.
+02-02-24 17:48:02.789 [Thread-127] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown initiated...
+02-02-24 17:48:02.795 [Thread-127] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-32 - Shutdown completed.
+02-02-24 17:48:03.402 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Starting...
+02-02-24 17:48:03.412 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-33 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1016bf7d
+02-02-24 17:48:03.412 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Start completed.
+02-02-24 18:17:58.836 [Thread-131] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown initiated...
+02-02-24 18:17:58.849 [Thread-131] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-33 - Shutdown completed.
+02-02-24 18:17:59.613 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Starting...
+02-02-24 18:17:59.817 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-34 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e781f63
+02-02-24 18:17:59.817 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Start completed.
+02-02-24 18:18:01.662 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown initiated...
+02-02-24 18:18:01.673 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-34 - Shutdown completed.
+02-02-24 18:19:23.513 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Starting...
+02-02-24 18:19:23.527 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-35 - Added connection com.mysql.cj.jdbc.ConnectionImpl@61e63bce
+02-02-24 18:19:23.528 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Start completed.
+02-02-24 18:19:23.851 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown initiated...
+02-02-24 18:19:23.889 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-35 - Shutdown completed.
+02-02-24 18:20:45.022 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Starting...
+02-02-24 18:20:45.116 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-36 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65bd0030
+02-02-24 18:20:45.116 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Start completed.
+02-02-24 18:20:46.387 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown initiated...
+02-02-24 18:20:46.430 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-36 - Shutdown completed.
+02-02-24 18:23:03.201 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Starting...
+02-02-24 18:23:03.215 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-37 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18850797
+02-02-24 18:23:03.215 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Start completed.
+02-02-24 18:23:04.408 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown initiated...
+02-02-24 18:23:04.423 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-37 - Shutdown completed.
+02-02-24 18:23:34.124 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Starting...
+02-02-24 18:23:34.136 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-38 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11491c05
+02-02-24 18:23:34.136 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Start completed.
+02-02-24 18:23:34.439 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown initiated...
+02-02-24 18:23:34.459 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-38 - Shutdown completed.
+02-02-24 18:24:48.353 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Starting...
+02-02-24 18:24:48.370 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-39 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27bcbe79
+02-02-24 18:24:48.371 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Start completed.
+02-02-24 18:25:02.803 [Thread-135] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown initiated...
+02-02-24 18:25:02.809 [Thread-135] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-39 - Shutdown completed.
+02-02-24 18:25:03.328 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Starting...
+02-02-24 18:25:03.342 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-40 - Added connection com.mysql.cj.jdbc.ConnectionImpl@42938341
+02-02-24 18:25:03.342 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Start completed.
+02-02-24 18:32:45.152 [Thread-154] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown initiated...
+02-02-24 18:32:45.158 [Thread-154] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-40 - Shutdown completed.
+02-02-24 18:32:46.156 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Starting...
+02-02-24 18:32:46.174 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-41 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e8ac512
+02-02-24 18:32:46.174 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-41 - Start completed.
+03-02-24 13:43:58.809 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+03-02-24 13:43:59.142 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c59205
+03-02-24 13:43:59.144 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+05-02-24 12:33:33.226 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+05-02-24 12:33:33.693 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53b872c5
+05-02-24 12:33:33.696 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+05-02-24 17:10:46.052 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+05-02-24 17:10:47.083 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71c8e6d3
+05-02-24 17:10:47.092 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+05-02-24 17:33:24.096 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+05-02-24 17:33:24.280 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+05-02-24 17:33:29.075 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+05-02-24 17:33:29.215 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e8571b2
+05-02-24 17:33:29.215 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+05-02-24 17:33:36.929 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+05-02-24 17:33:36.948 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+05-02-24 17:33:37.988 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+05-02-24 17:33:38.023 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@491fcdf
+05-02-24 17:33:38.023 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+06-02-24 12:14:39.463 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+06-02-24 12:14:39.714 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1bf1c7ba
+06-02-24 12:14:39.722 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+06-02-24 14:06:53.447 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+06-02-24 14:06:53.506 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+06-02-24 14:07:01.483 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+06-02-24 14:07:01.525 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1a1a2cc0
+06-02-24 14:07:01.526 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+06-02-24 14:07:06.537 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+06-02-24 14:07:06.542 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+06-02-24 14:07:07.316 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+06-02-24 14:07:07.335 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@46749490
+06-02-24 14:07:07.337 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+06-02-24 14:38:17.591 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=14m39s833ms7µs900ns).
+06-02-24 14:38:58.554 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown initiated...
+06-02-24 14:38:58.560 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Shutdown completed.
+06-02-24 14:39:00.004 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Starting...
+06-02-24 14:39:00.025 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@789f88e6
+06-02-24 14:39:00.026 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Start completed.
+06-02-24 15:20:04.599 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown initiated...
+06-02-24 15:20:04.722 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown completed.
+06-02-24 15:20:08.832 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Starting...
+06-02-24 15:20:08.901 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e770fc1
+06-02-24 15:20:08.901 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-5 - Start completed.
+13-02-24 16:17:37.063 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+13-02-24 16:17:37.557 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+                HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2752c539
+13-02-24 16:17:37.560 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
